@@ -1,0 +1,36 @@
+
+.logo{
+    margin-left: 70px;
+    display: inline-block;
+    vertical-align: top;
+   
+   
+}.title{
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 250px;
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 81, 255);
+}.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+    display: inline-block;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 30px;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    width: 190px;
+   
+    
+  }
